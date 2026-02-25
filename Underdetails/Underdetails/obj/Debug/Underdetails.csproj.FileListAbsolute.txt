@@ -1,0 +1,7 @@
+C:\C# program\Underdetails\Underdetails\bin\Debug\Underdetails.exe.config
+C:\C# program\Underdetails\Underdetails\bin\Debug\Underdetails.exe
+C:\C# program\Underdetails\Underdetails\bin\Debug\Underdetails.pdb
+C:\C# program\Underdetails\Underdetails\obj\Debug\Underdetails.csproj.AssemblyReference.cache
+C:\C# program\Underdetails\Underdetails\obj\Debug\Underdetails.csproj.CoreCompileInputs.cache
+C:\C# program\Underdetails\Underdetails\obj\Debug\Underdetails.exe
+C:\C# program\Underdetails\Underdetails\obj\Debug\Underdetails.pdb
