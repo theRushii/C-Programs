@@ -1,7 +1,0 @@
-C:\C# program\Program004\Program004\bin\Debug\Program004.exe.config
-C:\C# program\Program004\Program004\bin\Debug\Program004.exe
-C:\C# program\Program004\Program004\bin\Debug\Program004.pdb
-C:\C# program\Program004\Program004\obj\Debug\Program004.csproj.AssemblyReference.cache
-C:\C# program\Program004\Program004\obj\Debug\Program004.csproj.CoreCompileInputs.cache
-C:\C# program\Program004\Program004\obj\Debug\Program004.exe
-C:\C# program\Program004\Program004\obj\Debug\Program004.pdb
