@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        double p, r, t, si;
+        double p, r, t, ci, amount;
 
         Console.Write("Enter Principal: ");
         p = Convert.ToDouble(Console.ReadLine());
@@ -15,8 +15,9 @@ class Program
         Console.Write("Enter Time: ");
         t = Convert.ToDouble(Console.ReadLine());
 
-        si = (p * r * t) / 100;
+        amount = p * Math.Pow((1 + r / 100), t);
+        ci = amount - p;
 
-        Console.WriteLine("Simple Interest = " + si);
+        Console.WriteLine("Compound Interest = " + ci);
     }
 }
