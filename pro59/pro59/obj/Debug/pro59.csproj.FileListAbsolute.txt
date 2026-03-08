@@ -1,0 +1,7 @@
+C:\C# program\C-Programs\pro59\pro59\bin\Debug\pro59.exe.config
+C:\C# program\C-Programs\pro59\pro59\bin\Debug\pro59.exe
+C:\C# program\C-Programs\pro59\pro59\bin\Debug\pro59.pdb
+C:\C# program\C-Programs\pro59\pro59\obj\Debug\pro59.csproj.AssemblyReference.cache
+C:\C# program\C-Programs\pro59\pro59\obj\Debug\pro59.csproj.CoreCompileInputs.cache
+C:\C# program\C-Programs\pro59\pro59\obj\Debug\pro59.exe
+C:\C# program\C-Programs\pro59\pro59\obj\Debug\pro59.pdb
