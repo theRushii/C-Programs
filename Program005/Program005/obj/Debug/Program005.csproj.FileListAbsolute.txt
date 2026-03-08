@@ -1,0 +1,7 @@
+C:\C# program\Program005\Program005\bin\Debug\Program005.exe.config
+C:\C# program\Program005\Program005\bin\Debug\Program005.exe
+C:\C# program\Program005\Program005\bin\Debug\Program005.pdb
+C:\C# program\Program005\Program005\obj\Debug\Program005.csproj.AssemblyReference.cache
+C:\C# program\Program005\Program005\obj\Debug\Program005.csproj.CoreCompileInputs.cache
+C:\C# program\Program005\Program005\obj\Debug\Program005.exe
+C:\C# program\Program005\Program005\obj\Debug\Program005.pdb
