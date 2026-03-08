@@ -9,9 +9,9 @@ class Program
         Console.Write("Enter a number: ");
         num = Convert.ToInt32(Console.ReadLine());
 
-        if (num % 2 == 0)
-            Console.WriteLine("Number is Even");
+        if (num >= 0)
+            Console.WriteLine("Number is Positive");
         else
-            Console.WriteLine("Number is Odd");
+            Console.WriteLine("Number is Negative");
     }
 }
