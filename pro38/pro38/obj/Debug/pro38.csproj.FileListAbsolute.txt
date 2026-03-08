@@ -1,0 +1,7 @@
+C:\C# program\C-Programs\pro38\pro38\bin\Debug\pro38.exe.config
+C:\C# program\C-Programs\pro38\pro38\bin\Debug\pro38.exe
+C:\C# program\C-Programs\pro38\pro38\bin\Debug\pro38.pdb
+C:\C# program\C-Programs\pro38\pro38\obj\Debug\pro38.csproj.AssemblyReference.cache
+C:\C# program\C-Programs\pro38\pro38\obj\Debug\pro38.csproj.CoreCompileInputs.cache
+C:\C# program\C-Programs\pro38\pro38\obj\Debug\pro38.exe
+C:\C# program\C-Programs\pro38\pro38\obj\Debug\pro38.pdb
