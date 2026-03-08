@@ -1,0 +1,7 @@
+C:\C# program\C-Programs\pro020\pro020\bin\Debug\pro020.exe.config
+C:\C# program\C-Programs\pro020\pro020\bin\Debug\pro020.exe
+C:\C# program\C-Programs\pro020\pro020\bin\Debug\pro020.pdb
+C:\C# program\C-Programs\pro020\pro020\obj\Debug\pro020.csproj.AssemblyReference.cache
+C:\C# program\C-Programs\pro020\pro020\obj\Debug\pro020.csproj.CoreCompileInputs.cache
+C:\C# program\C-Programs\pro020\pro020\obj\Debug\pro020.exe
+C:\C# program\C-Programs\pro020\pro020\obj\Debug\pro020.pdb
