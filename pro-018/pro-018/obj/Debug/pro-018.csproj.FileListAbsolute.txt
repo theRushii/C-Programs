@@ -1,0 +1,7 @@
+C:\C# program\C-Programs\pro-018\pro-018\bin\Debug\pro-018.exe.config
+C:\C# program\C-Programs\pro-018\pro-018\bin\Debug\pro-018.exe
+C:\C# program\C-Programs\pro-018\pro-018\bin\Debug\pro-018.pdb
+C:\C# program\C-Programs\pro-018\pro-018\obj\Debug\pro-018.csproj.AssemblyReference.cache
+C:\C# program\C-Programs\pro-018\pro-018\obj\Debug\pro-018.csproj.CoreCompileInputs.cache
+C:\C# program\C-Programs\pro-018\pro-018\obj\Debug\pro-018.exe
+C:\C# program\C-Programs\pro-018\pro-018\obj\Debug\pro-018.pdb
