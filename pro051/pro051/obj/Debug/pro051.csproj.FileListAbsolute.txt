@@ -1,0 +1,7 @@
+C:\C# program\C-Programs\pro051\pro051\bin\Debug\pro051.exe.config
+C:\C# program\C-Programs\pro051\pro051\bin\Debug\pro051.exe
+C:\C# program\C-Programs\pro051\pro051\bin\Debug\pro051.pdb
+C:\C# program\C-Programs\pro051\pro051\obj\Debug\pro051.csproj.AssemblyReference.cache
+C:\C# program\C-Programs\pro051\pro051\obj\Debug\pro051.csproj.CoreCompileInputs.cache
+C:\C# program\C-Programs\pro051\pro051\obj\Debug\pro051.exe
+C:\C# program\C-Programs\pro051\pro051\obj\Debug\pro051.pdb
