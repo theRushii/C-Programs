@@ -1,0 +1,7 @@
+C:\C# program\pro011\pro011\bin\Debug\pro011.exe.config
+C:\C# program\pro011\pro011\bin\Debug\pro011.exe
+C:\C# program\pro011\pro011\bin\Debug\pro011.pdb
+C:\C# program\pro011\pro011\obj\Debug\pro011.csproj.AssemblyReference.cache
+C:\C# program\pro011\pro011\obj\Debug\pro011.csproj.CoreCompileInputs.cache
+C:\C# program\pro011\pro011\obj\Debug\pro011.exe
+C:\C# program\pro011\pro011\obj\Debug\pro011.pdb
