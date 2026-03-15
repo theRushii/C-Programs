@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# program\\C-Programs\\Pro072\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E00D3CE-C651-497A-99E7-4D60E8FE9503}|Pro072\\Pro072.csproj|c:\\c# program\\c-programs\\pro072\\pro072\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E00D3CE-C651-497A-99E7-4D60E8FE9503}|Pro072\\Pro072.csproj|solutionrelative:pro072\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# program\\C-Programs\\Pro072\\Pro072\\Program.cs",
+              "RelativeDocumentMoniker": "Pro072\\Program.cs",
+              "ToolTip": "C:\\C# program\\C-Programs\\Pro072\\Pro072\\Program.cs*",
+              "RelativeToolTip": "Pro072\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:49:04.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
